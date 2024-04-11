@@ -1,3 +1,33 @@
+.navbar.navbar-expand-lg.bg-body-tertiary {
+
+    background-color: rgba(255, 253, 207, 0.93)!important;
+    border-style: dotted;
+}
+
+.navbar-expand-lg{
+    font-style: italic;
+    font-size: 20px;
+    margin-block-end: 20px;      
+}
+
+.navbar-nav { 
+   margin: 0px 0px 0px 40px; 
+ 
+}
+
+.navbar-toggler{
+border: 2px solid #04AA6D;
+box-shadow: 0 5px #666;
+
+
+}
+
+button.navbar-toggler {
+
+    background-color:rgb(207, 255, 254);
+}
+
+
 body {
         
     background-image: url("https://www.publicdomainpictures.net/pictures/300000/nahled/seabed-155896303267m.jpg"); 
